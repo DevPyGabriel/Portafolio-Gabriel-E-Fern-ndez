@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    /* Colors */
+    --color-background: hsla(0, 0%, 15%, 1.00);
+
+    /* Fonts */
+    --font-dmono: 'Dm Mono', monospace;
+    --font-ibm: 'IBM Plex Mono', monospace;
+}
